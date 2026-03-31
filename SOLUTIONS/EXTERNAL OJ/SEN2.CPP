@@ -1,4 +1,4 @@
-//https://oj.vnoi.info/problem/wcalc
+// https://oj.vnoi.info/problem/hp_thpt_22_a
 // Created: Minh Triet
 // Date: 31/03/2026
 
@@ -6,11 +6,16 @@
 #pragma GCC target("avx2,bmi,bmi2,lzcnt,popcnt")
 #include <bits/stdc++.h>
 using namespace std;
-#define int long long
 
 void solve()
 {
-    
+    string s;
+    cin >> s;
+
+    for(int i = 0 ; i < (int)s.length() ; i ++)
+    {
+        
+    }
 }
 
 signed main()
