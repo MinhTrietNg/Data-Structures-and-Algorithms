@@ -1,4 +1,6 @@
 // https://codeforces.com/gym/102951/problem/A
+// Created: Minh Triet
+// Date: 28/03/2026
 
 #pragma GCC optimize("O3,unroll-loops")
 #pragma GCC target("avx2,bmi,bmi2,lzcnt,popcnt")
