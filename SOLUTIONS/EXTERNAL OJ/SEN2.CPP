@@ -12,19 +12,30 @@ void solve()
     string s;
     cin >> s;
 
-    for(int i = 0 ; i < (int)s.length() ; i ++)
+    string target = "virus";
+    int n = s.length();
+    int m = target.length();
+    if(n < m)
     {
-        if(s[i] == 'v')
-        {
-            for()
-        }
+        cout << 0;
+        return;
     }
+
+    int ans = 0;
+    for(int i = 0 ; i < n ; i ++)
+    {
+        if(s[i] == 'v' && s.substr(i, m) == target)
+            ans ++;
+    }
+
+    cout << ans;
 }
 
 signed main()
 {
     ios::sync_with_stdio(false);
     cin.tie(0);
+    solve();
 
 
 }
