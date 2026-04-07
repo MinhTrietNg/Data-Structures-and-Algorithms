@@ -24,7 +24,7 @@ int main()
     cin.tie(0);
     cout.tie(0);
 
-    freopen("ANS.INP","r",stdin);
+    //freopen("ANS.INP","r",stdin);
 
     int t;
     cin >> t;
