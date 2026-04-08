@@ -18,7 +18,8 @@ int main() {
     for (int i = 0; i < n; ++i) {
         cin >> a[i];
     }
-        sort(a.begin(), a.end());
+    
+    sort(a.begin(), a.end());
     
     vector<long long> pref(n + 1, 0);
     for (int i = 0; i < n; ++i) {
