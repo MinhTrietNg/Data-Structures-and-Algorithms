@@ -101,7 +101,7 @@
 
 | **STT** | **Tên bài** | **Link bài** | **Link code** |
 | :---: | --- | :---: | :---: |
-| 1 | **Counting Rooms** | [Link](https://cses.fi/problemset/task/1192) |  |
+| 1 | **Counting Rooms** | [Link](https://cses.fi/problemset/task/1192) | [Code](https://github.com/MinhTrietNg/Data-Structures-and-Algorithms/blob/main/CSES/Counting_Rooms.cpp) |
 | 2 | **Labyrinth** | [Link](https://cses.fi/problemset/task/1193) |  |
 | 3 | **Building Roads** | [Link](https://cses.fi/problemset/task/1666) |  |
 | 4 | **Message Route** | [Link](https://cses.fi/problemset/task/1667) |  |
